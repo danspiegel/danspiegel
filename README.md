@@ -4,6 +4,6 @@ Eu sou um desenvolvedor FullStack (Angular, React, NodeJS, JavaScript, Java, Spr
 Adoro desafios e estou em constante busca por evolução e aprendizado.
 Quero poder deixar uma marca em cada projeto que desenvolvo.
 
-<a href="https://www.linkedin.com/in/vitor-medeiro-9096ab138/">
+<a href="https://www.linkedin.com/in/daniel-spiegel/">
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Daniel%20Spiegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-spiegel/"/></a>
 
