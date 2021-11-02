@@ -43,6 +43,7 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 
   #
   
-<div>  
+<div>   
+
    ![Snake animation](https://github.com/danspiegel/danspiegel/blob/output/github-contribution-grid-snake.svg)
 </div>
