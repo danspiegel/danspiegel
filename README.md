@@ -9,7 +9,7 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 
 <br/><br/>
 
-## Minha Stack de Tecnologias
+## :computer: Tecnologias
 
 **Tecnologias**
 
