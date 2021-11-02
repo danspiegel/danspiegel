@@ -44,5 +44,5 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
   #
   
 <div>
-  ![](https://github.com/danspiegel/danspiegel/blob/main/github-contribution-grid-snake.svg)  
+  ![](https://github.com/danspiegel/danspiegel/blob/output/github-contribution-grid-snake.svg)  
 </div>
