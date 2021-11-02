@@ -43,6 +43,9 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 
   #
   
-<div>
-  ![](https://github.com/danspiegel/danspiegel/blob/output/github-contribution-grid-snake.svg)  
+ * MÍdia Social
+<div>   
+<a href="https://www.linkedin.com/in/renatoredes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+   ![Snake animation](https://github.com/renatoredes/renatoredes/blob/output/github-contribution-grid-snake.svg)
 </div>
