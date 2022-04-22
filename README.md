@@ -12,6 +12,9 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 <div align="center">
   <a href="https://github.com/danspiegel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danspiegel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danspiegel&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=danspiegel&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danspiegel&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
