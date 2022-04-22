@@ -1,4 +1,4 @@
-<h1>Olá :wave: </h1>
+<h1>Olá :wave: , meu nome é Daniel </h1>
 
 Eu sou um desenvolvedor FullStack (Angular, React, NodeJS, JavaScript, Java, Spring).
 Adoro desafios e estou em constante busca por evolução e aprendizado.
