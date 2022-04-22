@@ -5,12 +5,7 @@ Adoro desafios e estou em constante busca por evolução e aprendizado.
 Quero poder deixar uma marca em cada projeto que desenvolvo.
 
 <a href="https://www.linkedin.com/in/daniel-spiegel/">
-<img alt="Linkedin Badge" src="https://img.shields.io/badge/-Daniel%20Spiegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-spiegel/"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/danspiegel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danspiegel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Daniel%20Spiegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-spiegel/"/>
 </a>
 
 ## :computer: Tecnologias
@@ -54,7 +49,13 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-  
+
+<br/><br/>
+
+<a href="https://github.com/danspiegel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danspiegel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+
 <a href="https://github.com/danspiegel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danspiegel&layout=compact&langs_count=7&theme=algolia"/>
 </a>
