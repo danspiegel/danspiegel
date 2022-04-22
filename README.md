@@ -1,6 +1,6 @@
 <h1>Olá :wave:, meu nome é Daniel </h1>
 
-Eu sou um desenvolvedor FullStack (Angular, React, NodeJS, JavaScript, Java, Spring).
+Eu sou um desenvolvedor Full Stack (Angular, React, NodeJS, JavaScript, Java, Spring).
 Adoro desafios e estou em constante busca por evolução e aprendizado.
 Quero poder deixar uma marca em cada projeto que desenvolvo.
 
