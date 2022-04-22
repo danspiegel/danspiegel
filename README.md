@@ -5,7 +5,7 @@ Adoro desafios e estou em constante busca por evolução e aprendizado.
 Quero poder deixar uma marca em cada projeto que desenvolvo.
 
 <a href="https://www.linkedin.com/in/daniel-spiegel/">
-  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Daniel%20Spiegel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-spiegel/"/>
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-spiegel/"/>
 </a>
 
 ## :computer: Tecnologias
