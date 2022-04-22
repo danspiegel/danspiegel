@@ -12,24 +12,6 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 <a href="https://github.com/danspiegel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danspiegel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-  
-<a href="https://github.com/danspiegel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danspiegel&layout=compact&langs_count=7&theme=algolia"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/danspiegel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danspiegel&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-  
-<br/><br/>  
-  
-<a href="https://github.com/danspiegel">
-  <img src="https://activity-graph.herokuapp.com/graph?username=danspiegel&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-<br/><br/>
 
 ## :computer: Tecnologias
 
@@ -72,9 +54,25 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-
   
+<a href="https://github.com/danspiegel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danspiegel&layout=compact&langs_count=7&theme=algolia"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/danspiegel">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danspiegel&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+  
+<br/><br/>  
+  
+<a href="https://github.com/danspiegel">
+  <img src="https://activity-graph.herokuapp.com/graph?username=danspiegel&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+
+<br/><br/>
+
 <div>   
 
    ![Snake animation](https://github.com/danspiegel/danspiegel/blob/output/github-contribution-grid-snake.svg)
