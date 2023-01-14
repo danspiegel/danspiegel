@@ -76,9 +76,7 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
   
 <br/><br/>  
   
-<a href="https://github.com/danspiegel">
-  <img src="https://activity-graph.herokuapp.com/graph?username=danspiegel&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danspiegel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=7a7171&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
