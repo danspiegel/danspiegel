@@ -76,7 +76,7 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
   
 <br/><br/>  
   
-(https://github-readme-activity-graph.cyclic.app/graph?username=danspiegel&bg_color=171215&color=e1d0e1&line=211ecc&point=e69494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=danspiegel&bg_color=171215&color=e1d0e1&line=211ecc&point=e69494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
