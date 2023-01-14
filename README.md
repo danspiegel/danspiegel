@@ -61,11 +61,11 @@ Quero poder deixar uma marca em cada projeto que desenvolvo.
 <br/><br/>
 
 <a href="https://github.com/danspiegel">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danspiegel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danspiegel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/danspiegel">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danspiegel&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danspiegel&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
 <br/><br/>
